@@ -1,1 +1,2 @@
-# boy.js
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
